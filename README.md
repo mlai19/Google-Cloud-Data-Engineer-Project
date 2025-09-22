@@ -10,6 +10,14 @@
 
 
 The goal of this project was to build a fully automated data pipeline that ingests sales data from multiple regions (USA, UK, India), processes it in the cloud, and enables real-time reporting.
+<br>
+
+****Architecture****
+---
+
+<img width="1107" height="402" alt="Screenshot 2025-09-22 at 11 16 44 AM" src="https://github.com/user-attachments/assets/2aed9153-67db-48e3-b20b-6100c471b1e0" />
+
+
 
 ****Process****
 ---
