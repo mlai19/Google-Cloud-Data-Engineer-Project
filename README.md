@@ -36,6 +36,9 @@ The goal of this project was to build a fully automated data pipeline that inges
 - Integrated BigQuery with Looker Studio to create dashboards showing KPIs like total sales, regional comparisons, and sales trends
 - Added filtering and drill-down capabilities for flexible reporting (ex: by date, product category, geography)
 
+<img width="612" height="413" alt="Screenshot 2025-09-22 at 5 49 40 PM" src="https://github.com/user-attachments/assets/9f12a792-7ebe-40a8-a6c9-edc6817f7619" />
+
+
 
 ****Conclusion****
 ---
